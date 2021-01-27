@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-안녕낭녕
+안녕낭녕 점심은 소치
 </body>
 </html>
